@@ -1,0 +1,11 @@
+Package: tsub
+Type: Package
+Title: Teaching Statistics Using Baseball datasets
+Version: 0.10
+Date: 2016-08-14
+Author: Jim Albert
+Maintainer: Jim Albert <albert@bgsu.edu>
+LazyData: yes
+Description: The package contains all datasets for the text Teaching Statistics Using Baseball, 2nd Edition.
+License: GPL (>= 2)
+Packaged: Wed May 28 19:11:23 2014; Jim Albert

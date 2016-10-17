@@ -1,0 +1,1 @@
+Player	AB	H	X2B	X3B	HR	BB	HBP	SFJose_Altuve	660	225	47	3	7	36	5	5Nelson_Cruz	613	166	32	2	40	55	5	5
